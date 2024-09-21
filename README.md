@@ -7,4 +7,4 @@ Keep in mind this is the worst possible test for GDScipt and the best possible f
 
 This video on Youtube explains everything better: https://youtu.be/qDXomV7Ojko
 
-Tested using Godot 4.3 stable.
+Tested using Godot 4.3 stable.  GDExtention shared library only created for Windows.
