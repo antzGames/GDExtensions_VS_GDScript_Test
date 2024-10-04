@@ -1,7 +1,7 @@
 # GDExtensions_VS_GDScript_Test
  C++ vs. GDScript Prime Number Test
 
-This is a prime number test using this algorithm: [https://www.geeksforgeeks.org/sieve-of-eratosthenes/](https://www.geeksforgeeks.org/segmented-sieve/)
+This is a prime number test using this algorithm: https://www.geeksforgeeks.org/segmented-sieve/
 
 Keep in mind this is the worst possible test for GDScipt and the best possible for C++.
 
