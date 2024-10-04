@@ -8,7 +8,7 @@ Keep in mind this is the worst possible test for GDScipt and the best possible f
 This video on Youtube explains everything better: [https://youtu.be/qDXomV7Ojko
 ](https://youtu.be/c9gRhi-Aucw)
 
-Tested using Godot 4.3 stable.  GDExtention shared library only created for Windows.
+Tested using Godot 4.3 stable.  GDExtention shared library only created for Windows and Web.
 
 Both C# and Java projects not included in this repo, but code snippets are below:
 
