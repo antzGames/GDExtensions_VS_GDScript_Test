@@ -10,7 +10,7 @@ This video on Youtube explains everything better: [https://youtu.be/qDXomV7Ojko
 
 Tested using Godot 4.3 stable.  GDExtention shared library only created for Windows and Web.
 
-Both C# and Java projects not included in this repo, but code snippets can be found below.
+The C# and Java projects not included in this repo, but code snippets can be found below.  The C++ code is at te end.
 
 ## Results
 
